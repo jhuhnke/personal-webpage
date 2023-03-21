@@ -1,0 +1,23 @@
+{
+  "name": "personal-webpage",
+  "version": "1.0.0",
+  "description": "Personal Resume Website Built Using NES.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhuhnke/personal-webpage.git"
+  },
+  "keywords": [
+    "resume",
+    "nes.css"
+  ],
+  "author": "Jessica Huhnke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhuhnke/personal-webpage/issues"
+  },
+  "homepage": "https://github.com/jhuhnke/personal-webpage#readme"
+}
