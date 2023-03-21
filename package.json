@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jhuhnke/personal-webpage/issues"
   },
-  "homepage": "https://github.com/jhuhnke/personal-webpage#readme"
+  "homepage": "https://github.com/jhuhnke/personal-webpage#readme",
+  "dependencies": {
+    "build": "^0.1.4"
+  }
 }
